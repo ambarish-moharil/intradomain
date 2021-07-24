@@ -35,6 +35,7 @@ contextual = disambiguation.disambiguate()
   3) Enter input for a starting label for which the threshold plot is to be obtained:- 
   
   Threshold Plots look like this!
+  
   ![command_1_cluster0__label_14_scatter](https://user-images.githubusercontent.com/44119212/126865235-e572e187-22d6-4e51-83c5-f1e63c082803.png)
   
   (Threshold Plot for the word Command in the Mixed Corpus)
