@@ -10,7 +10,7 @@ DISAMBIGUATE INTRADOMAIN CONTEXTUAL AMBIGUITY
 1. Install:
 
 ```
-pip install intradomain-toolkit
+pip install intradomain_toolkit
 ```
 
 2. Disambiguate a certain corpus:
