@@ -49,8 +49,11 @@ contextual = disambiguation.disambiguate()
   5) Enter the cluster number for which the threshold plot is to be obtained:-
  
   The user shall enter the cluster for which the threshold plots are to be obtained. Note that the algorithm will take the maximum input not greater than the       number of optimal_k. For eg if the optimal_k is three, then the user can input 
+  
     a) 0 for obtaining the threshold plot for cluster 1
+    
     b) 1 for obtaining the threshold plot for cluster 2
+    
     c) 2 for obtaining the threshold plot for cluster 3
   
   6) Enter the threshold for the context words to be obtained:-
